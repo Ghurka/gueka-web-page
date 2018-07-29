@@ -1,0 +1,9 @@
+.home-background {
+    background-image: url(/assets/guekaweb.jpg);
+    width: 1281px;
+    height: 721px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:auto;
+    display: inline-block;
+}
